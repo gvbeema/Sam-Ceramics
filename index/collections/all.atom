@@ -1,0 +1,1523 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://tileo.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://tileo.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://tileo.myshopify.com/collections/all.atom"/>
+  <title>tileo</title>
+  <updated>2020-08-20T07:17:07-04:00</updated>
+  <author>
+    <name>tileo</name>
+  </author>
+  <entry>
+    <id>https://tileo.myshopify.com/products/5617934532770</id>
+    <published>2020-08-20T07:17:07-04:00</published>
+    <updated>2020-08-20T07:17:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://tileo.myshopify.com/products/imperial-red"/>
+    <title>Imperial Red</title>
+    <s:type>Floor Tiles</s:type>
+    <s:vendor>Tilex</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0437/5671/6194/products/Product19_5c96265c-bc0f-4fe7-a5bc-047adee512c1.jpg?v=1597922267"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tilex<br>
+        <strong>Type: </strong>Floor Tiles<br>
+        <strong>Price: </strong>
+            900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos.Donec pretium egestas sapien et mollis.</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ul>
+<h4>Sample Ordered Lista</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis.</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous.</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>Praesent vestibulum congue tellus at fringilla. Curabitur vitae semper sem, eu convallis est. Cras felis nunc commodo eu convallis vitae interdum non nisl. Maecenas ac est sit amet augue pharetra convallis nec danos dui. Cras suscipit quam et turpis eleifend vitae malesuada magna congue. Damus id ullamcorper neque. Sed vitae mi a mi pretium aliquet ac sed elit. Pellentesque nulla eros accumsan quis justo at tincidunt lobortis denimes loremous. Suspendisse vestibulum lectus in lectus volutpat, ut dapibus purus pulvinar. Vestibulum sit amet auctor ipsum.</blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$700 - $1000</s:tag>
+    <s:tag>120x180 cm</s:tag>
+    <s:tag>Floor Tiles</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>Tilex</s:tag>
+    <s:tag>Vitrified Tiles</s:tag>
+    <s:variant>
+      <id>https://tileo.myshopify.com/products/5617934532770</id>
+      <title>120x180 cm / Red / Vitrified Tiles</title>
+      <s:price currency="INR">900.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://tileo.myshopify.com/products/5617934532770</id>
+      <title>120x120 cm / Orange / Plastic</title>
+      <s:price currency="INR">900.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://tileo.myshopify.com/products/5617934532770</id>
+      <title>100x200 cm / Brown / Fiber</title>
+      <s:price currency="INR">900.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://tileo.myshopify.com/products/5617868144802</id>
+    <published>2020-08-20T06:46:25-04:00</published>
+    <updated>2020-08-20T06:46:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://tileo.myshopify.com/products/rossa-verona"/>
+    <title>Rossa Verona</title>
+    <s:type>Floor Tiles</s:type>
+    <s:vendor>Tilex</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0437/5671/6194/products/Product18_459ab3cf-f025-4964-8047-161aef3417cf.jpg?v=1597921991"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tilex<br>
+        <strong>Type: </strong>Floor Tiles<br>
+        <strong>Price: </strong>
+            900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos.Donec pretium egestas sapien et mollis.</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ul>
+<h4>Sample Ordered Lista</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis.</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous.</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>Praesent vestibulum congue tellus at fringilla. Curabitur vitae semper sem, eu convallis est. Cras felis nunc commodo eu convallis vitae interdum non nisl. Maecenas ac est sit amet augue pharetra convallis nec danos dui. Cras suscipit quam et turpis eleifend vitae malesuada magna congue. Damus id ullamcorper neque. Sed vitae mi a mi pretium aliquet ac sed elit. Pellentesque nulla eros accumsan quis justo at tincidunt lobortis denimes loremous. Suspendisse vestibulum lectus in lectus volutpat, ut dapibus purus pulvinar. Vestibulum sit amet auctor ipsum.</blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$700 - $1000</s:tag>
+    <s:tag>120x180 cm</s:tag>
+    <s:tag>Brown</s:tag>
+    <s:tag>Floor Tiles</s:tag>
+    <s:tag>Tilex</s:tag>
+    <s:tag>Vitrified Tiles</s:tag>
+    <s:variant>
+      <id>https://tileo.myshopify.com/products/5617868144802</id>
+      <title>120x180 cm / Brown / Vitrified Tiles</title>
+      <s:price currency="INR">900.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://tileo.myshopify.com/products/5617868144802</id>
+      <title>120x120 cm / Rose / Plastic</title>
+      <s:price currency="INR">900.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://tileo.myshopify.com/products/5617868144802</id>
+      <title>100x200 cm / Orange / Fiber</title>
+      <s:price currency="INR">900.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://tileo.myshopify.com/products/5617859592354</id>
+    <published>2020-08-20T06:41:52-04:00</published>
+    <updated>2020-08-20T06:41:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://tileo.myshopify.com/products/giallo-veneziano"/>
+    <title>Giallo Veneziano</title>
+    <s:type>Floor Tiles</s:type>
+    <s:vendor>Tilex</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0437/5671/6194/products/Product17_b781a193-4262-49ef-84e1-b2bf5161710f.jpg?v=1597920236"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tilex<br>
+        <strong>Type: </strong>Floor Tiles<br>
+        <strong>Price: </strong>
+            900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos.Donec pretium egestas sapien et mollis.</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ul>
+<h4>Sample Ordered Lista</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis.</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous.</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>Praesent vestibulum congue tellus at fringilla. Curabitur vitae semper sem, eu convallis est. Cras felis nunc commodo eu convallis vitae interdum non nisl. Maecenas ac est sit amet augue pharetra convallis nec danos dui. Cras suscipit quam et turpis eleifend vitae malesuada magna congue. Damus id ullamcorper neque. Sed vitae mi a mi pretium aliquet ac sed elit. Pellentesque nulla eros accumsan quis justo at tincidunt lobortis denimes loremous. Suspendisse vestibulum lectus in lectus volutpat, ut dapibus purus pulvinar. Vestibulum sit amet auctor ipsum.</blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$700 - $1000</s:tag>
+    <s:tag>120x180 cm</s:tag>
+    <s:tag>Floor Tiles</s:tag>
+    <s:tag>Orange</s:tag>
+    <s:tag>Tilex</s:tag>
+    <s:tag>Vitrified Tiles</s:tag>
+    <s:variant>
+      <id>https://tileo.myshopify.com/products/5617859592354</id>
+      <title>120x180 cm / Orange / Vitrified Tiles</title>
+      <s:price currency="INR">900.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://tileo.myshopify.com/products/5617859592354</id>
+      <title>120x120 cm / Brown / Plastic</title>
+      <s:price currency="INR">900.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://tileo.myshopify.com/products/5617859592354</id>
+      <title>100x200 cm / Rose / Fiber</title>
+      <s:price currency="INR">900.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://tileo.myshopify.com/products/5617850384546</id>
+    <published>2020-08-20T06:36:48-04:00</published>
+    <updated>2020-08-20T06:36:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://tileo.myshopify.com/products/imperador-light"/>
+    <title>Imperador Light</title>
+    <s:type>Floor Tiles</s:type>
+    <s:vendor>Tilex</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0437/5671/6194/products/Product16.jpg?v=1597920050"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tilex<br>
+        <strong>Type: </strong>Floor Tiles<br>
+        <strong>Price: </strong>
+            900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos.Donec pretium egestas sapien et mollis.</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ul>
+<h4>Sample Ordered Lista</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis.</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous.</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>Praesent vestibulum congue tellus at fringilla. Curabitur vitae semper sem, eu convallis est. Cras felis nunc commodo eu convallis vitae interdum non nisl. Maecenas ac est sit amet augue pharetra convallis nec danos dui. Cras suscipit quam et turpis eleifend vitae malesuada magna congue. Damus id ullamcorper neque. Sed vitae mi a mi pretium aliquet ac sed elit. Pellentesque nulla eros accumsan quis justo at tincidunt lobortis denimes loremous. Suspendisse vestibulum lectus in lectus volutpat, ut dapibus purus pulvinar. Vestibulum sit amet auctor ipsum.</blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$700 - $1000</s:tag>
+    <s:tag>120x180 cm</s:tag>
+    <s:tag>Brown</s:tag>
+    <s:tag>Floor Tiles</s:tag>
+    <s:tag>Tilex</s:tag>
+    <s:tag>Vitrified Tiles</s:tag>
+    <s:variant>
+      <id>https://tileo.myshopify.com/products/5617850384546</id>
+      <title>120x180 cm / Brown / Vitrified Tiles</title>
+      <s:price currency="INR">900.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://tileo.myshopify.com/products/5617850384546</id>
+      <title>120x120 cm / Orange / Plastic</title>
+      <s:price currency="INR">900.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://tileo.myshopify.com/products/5617850384546</id>
+      <title>100x200 cm / Brown / Fiber</title>
+      <s:price currency="INR">900.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://tileo.myshopify.com/products/5617712758946</id>
+    <published>2020-08-20T05:52:05-04:00</published>
+    <updated>2020-08-20T05:52:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://tileo.myshopify.com/products/wooden-vitrified-tiles"/>
+    <title>Wooden Vitrified Tiles</title>
+    <s:type>Bathroom Tiles</s:type>
+    <s:vendor>Rainbow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0437/5671/6194/products/Product10.jpg?v=1597917126"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rainbow<br>
+        <strong>Type: </strong>Bathroom Tiles<br>
+        <strong>Price: </strong>
+            850.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos.Donec pretium egestas sapien et mollis.</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ul>
+<h4>Sample Ordered Lista</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis.</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous.</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>Praesent vestibulum congue tellus at fringilla. Curabitur vitae semper sem, eu convallis est. Cras felis nunc commodo eu convallis vitae interdum non nisl. Maecenas ac est sit amet augue pharetra convallis nec danos dui. Cras suscipit quam et turpis eleifend vitae malesuada magna congue. Damus id ullamcorper neque. Sed vitae mi a mi pretium aliquet ac sed elit. Pellentesque nulla eros accumsan quis justo at tincidunt lobortis denimes loremous. Suspendisse vestibulum lectus in lectus volutpat, ut dapibus purus pulvinar. Vestibulum sit amet auctor ipsum.</blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$700 - $1000</s:tag>
+    <s:tag>400X400 mm</s:tag>
+    <s:tag>Bathroom Tiles</s:tag>
+    <s:tag>Brown</s:tag>
+    <s:tag>Rainbow</s:tag>
+    <s:tag>Vitrified Tiles</s:tag>
+    <s:variant>
+      <id>https://tileo.myshopify.com/products/5617712758946</id>
+      <title>400X400 mm / Brown / Vitrified Tiles</title>
+      <s:price currency="INR">850.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://tileo.myshopify.com/products/5617712562338</id>
+    <published>2020-08-20T05:52:02-04:00</published>
+    <updated>2020-08-20T05:52:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://tileo.myshopify.com/products/vitrified-tiles"/>
+    <title>Vitrified Tiles</title>
+    <s:type>Floor Tiles</s:type>
+    <s:vendor>Tilex</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0437/5671/6194/products/Product1.jpg?v=1597919251"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tilex<br>
+        <strong>Type: </strong>Floor Tiles<br>
+        <strong>Price: </strong>
+            900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos.Donec pretium egestas sapien et mollis.</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ul>
+<h4>Sample Ordered Lista</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis.</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous.</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>Praesent vestibulum congue tellus at fringilla. Curabitur vitae semper sem, eu convallis est. Cras felis nunc commodo eu convallis vitae interdum non nisl. Maecenas ac est sit amet augue pharetra convallis nec danos dui. Cras suscipit quam et turpis eleifend vitae malesuada magna congue. Damus id ullamcorper neque. Sed vitae mi a mi pretium aliquet ac sed elit. Pellentesque nulla eros accumsan quis justo at tincidunt lobortis denimes loremous. Suspendisse vestibulum lectus in lectus volutpat, ut dapibus purus pulvinar. Vestibulum sit amet auctor ipsum.</blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$700 - $1000</s:tag>
+    <s:tag>120x180 cm</s:tag>
+    <s:tag>Floor Tiles</s:tag>
+    <s:tag>Orange</s:tag>
+    <s:tag>Tilex</s:tag>
+    <s:tag>Vitrified Tiles</s:tag>
+    <s:variant>
+      <id>https://tileo.myshopify.com/products/5617712562338</id>
+      <title>120x180 cm / Orange / Vitrified Tiles</title>
+      <s:price currency="INR">900.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://tileo.myshopify.com/products/5617712562338</id>
+      <title>120x120 cm / Brown / Plastic</title>
+      <s:price currency="INR">900.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://tileo.myshopify.com/products/5617712562338</id>
+      <title>100x200 cm / Orange / Fiber</title>
+      <s:price currency="INR">900.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://tileo.myshopify.com/products/5617712431266</id>
+    <published>2020-08-20T05:52:00-04:00</published>
+    <updated>2020-08-20T05:52:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://tileo.myshopify.com/products/ransand-vitrified-tiles"/>
+    <title>Ransand Vitrified Tiles</title>
+    <s:type>Wall Tiles</s:type>
+    <s:vendor>Ransand</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0437/5671/6194/products/Product6_9b09d278-6549-401b-b9cb-ab75eb6f7330.jpg?v=1597919139"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ransand<br>
+        <strong>Type: </strong>Wall Tiles<br>
+        <strong>Price: </strong>
+            750.00 - 900.00
+            <a href="https://tileo.myshopify.com/products/ransand-vitrified-tiles">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos.Donec pretium egestas sapien et mollis.</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ul>
+<h4>Sample Ordered Lista</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis.</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous.</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>Praesent vestibulum congue tellus at fringilla. Curabitur vitae semper sem, eu convallis est. Cras felis nunc commodo eu convallis vitae interdum non nisl. Maecenas ac est sit amet augue pharetra convallis nec danos dui. Cras suscipit quam et turpis eleifend vitae malesuada magna congue. Damus id ullamcorper neque. Sed vitae mi a mi pretium aliquet ac sed elit. Pellentesque nulla eros accumsan quis justo at tincidunt lobortis denimes loremous. Suspendisse vestibulum lectus in lectus volutpat, ut dapibus purus pulvinar. Vestibulum sit amet auctor ipsum.</blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$700 - $1000</s:tag>
+    <s:tag>100x200 cm</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>Ransand</s:tag>
+    <s:tag>Vitrified Tiles</s:tag>
+    <s:tag>Wall Tiles</s:tag>
+    <s:variant>
+      <id>https://tileo.myshopify.com/products/5617712431266</id>
+      <title>100x200 cm / Blue / Vitrified Tiles</title>
+      <s:price currency="INR">750.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://tileo.myshopify.com/products/5617712431266</id>
+      <title>120x120 cm / Brown / Plastic</title>
+      <s:price currency="INR">900.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://tileo.myshopify.com/products/5617712431266</id>
+      <title>120x180 cm / Orange / Fiber</title>
+      <s:price currency="INR">900.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://tileo.myshopify.com/products/5617712300194</id>
+    <published>2020-08-20T05:51:58-04:00</published>
+    <updated>2020-08-20T05:51:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://tileo.myshopify.com/products/rainbow-floor-tiles"/>
+    <title>Rainbow Floor Tiles</title>
+    <s:type>Floor Tiles</s:type>
+    <s:vendor>Rainbow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0437/5671/6194/products/Product10_7d641bc9-f748-46c1-a071-8227722b5616.jpg?v=1597918950"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rainbow<br>
+        <strong>Type: </strong>Floor Tiles<br>
+        <strong>Price: </strong>
+            850.00 - 900.00
+            <a href="https://tileo.myshopify.com/products/rainbow-floor-tiles">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos.Donec pretium egestas sapien et mollis.</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ul>
+<h4>Sample Ordered Lista</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis.</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous.</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>Praesent vestibulum congue tellus at fringilla. Curabitur vitae semper sem, eu convallis est. Cras felis nunc commodo eu convallis vitae interdum non nisl. Maecenas ac est sit amet augue pharetra convallis nec danos dui. Cras suscipit quam et turpis eleifend vitae malesuada magna congue. Damus id ullamcorper neque. Sed vitae mi a mi pretium aliquet ac sed elit. Pellentesque nulla eros accumsan quis justo at tincidunt lobortis denimes loremous. Suspendisse vestibulum lectus in lectus volutpat, ut dapibus purus pulvinar. Vestibulum sit amet auctor ipsum.</blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$700 - $1000</s:tag>
+    <s:tag>100x200 cm</s:tag>
+    <s:tag>Floor Tiles</s:tag>
+    <s:tag>Rainbow</s:tag>
+    <s:tag>Sandal</s:tag>
+    <s:tag>Vitrified Tiles</s:tag>
+    <s:variant>
+      <id>https://tileo.myshopify.com/products/5617712300194</id>
+      <title>100x200 cm / Sandal / Vitrified Tiles</title>
+      <s:price currency="INR">850.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://tileo.myshopify.com/products/5617712300194</id>
+      <title>120x120 cm / Blue / Plastic</title>
+      <s:price currency="INR">900.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://tileo.myshopify.com/products/5617712300194</id>
+      <title>120x180 cm / Orange / Fiber</title>
+      <s:price currency="INR">900.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://tileo.myshopify.com/products/5617712234658</id>
+    <published>2020-08-20T05:51:56-04:00</published>
+    <updated>2020-08-20T05:51:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://tileo.myshopify.com/products/portable-tiles"/>
+    <title>Portable Tiles</title>
+    <s:type>Wall Tiles</s:type>
+    <s:vendor>Rainbow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0437/5671/6194/products/Product9_3ffcb7f1-f521-4d56-b96c-1f966963e64f.jpg?v=1597918831"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rainbow<br>
+        <strong>Type: </strong>Wall Tiles<br>
+        <strong>Price: </strong>
+            899.00 - 900.00
+            <a href="https://tileo.myshopify.com/products/portable-tiles">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos.Donec pretium egestas sapien et mollis.</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ul>
+<h4>Sample Ordered Lista</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis.</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous.</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>Praesent vestibulum congue tellus at fringilla. Curabitur vitae semper sem, eu convallis est. Cras felis nunc commodo eu convallis vitae interdum non nisl. Maecenas ac est sit amet augue pharetra convallis nec danos dui. Cras suscipit quam et turpis eleifend vitae malesuada magna congue. Damus id ullamcorper neque. Sed vitae mi a mi pretium aliquet ac sed elit. Pellentesque nulla eros accumsan quis justo at tincidunt lobortis denimes loremous. Suspendisse vestibulum lectus in lectus volutpat, ut dapibus purus pulvinar. Vestibulum sit amet auctor ipsum.</blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$700 - $1000</s:tag>
+    <s:tag>100x200 cm</s:tag>
+    <s:tag>Brown</s:tag>
+    <s:tag>Rainbow</s:tag>
+    <s:tag>Vitrified Tiles</s:tag>
+    <s:tag>Wall Tiles</s:tag>
+    <s:variant>
+      <id>https://tileo.myshopify.com/products/5617712234658</id>
+      <title>100x200 cm / Brown / Vitrified Tiles</title>
+      <s:price currency="INR">899.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://tileo.myshopify.com/products/5617712234658</id>
+      <title>120x120 cm / Brown / Plastic</title>
+      <s:price currency="INR">900.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://tileo.myshopify.com/products/5617712234658</id>
+      <title>120x180 cm / Brown / Fiber</title>
+      <s:price currency="INR">900.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://tileo.myshopify.com/products/5617712070818</id>
+    <published>2020-08-20T05:51:54-04:00</published>
+    <updated>2020-08-20T05:51:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://tileo.myshopify.com/products/polished-vitrified-tiles"/>
+    <title>Polished Vitrified Tiles</title>
+    <s:type>Floor Tiles</s:type>
+    <s:vendor>Rainbow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0437/5671/6194/products/Product4.jpg?v=1597918738"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rainbow<br>
+        <strong>Type: </strong>Floor Tiles<br>
+        <strong>Price: </strong>
+            600.00 - 900.00
+            <a href="https://tileo.myshopify.com/products/polished-vitrified-tiles">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos.Donec pretium egestas sapien et mollis.</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ul>
+<h4>Sample Ordered Lista</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis.</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous.</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>Praesent vestibulum congue tellus at fringilla. Curabitur vitae semper sem, eu convallis est. Cras felis nunc commodo eu convallis vitae interdum non nisl. Maecenas ac est sit amet augue pharetra convallis nec danos dui. Cras suscipit quam et turpis eleifend vitae malesuada magna congue. Damus id ullamcorper neque. Sed vitae mi a mi pretium aliquet ac sed elit. Pellentesque nulla eros accumsan quis justo at tincidunt lobortis denimes loremous. Suspendisse vestibulum lectus in lectus volutpat, ut dapibus purus pulvinar. Vestibulum sit amet auctor ipsum.</blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$700 - $1000</s:tag>
+    <s:tag>120x180 cm</s:tag>
+    <s:tag>Grey</s:tag>
+    <s:tag>Rainbow</s:tag>
+    <s:tag>Vitrified Tiles</s:tag>
+    <s:tag>Wall Tiles</s:tag>
+    <s:variant>
+      <id>https://tileo.myshopify.com/products/5617712070818</id>
+      <title>120x180 cm / Grey / Vitrified Tiles</title>
+      <s:price currency="INR">600.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://tileo.myshopify.com/products/5617712070818</id>
+      <title>120x120 cm / Orange / Plastic</title>
+      <s:price currency="INR">900.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://tileo.myshopify.com/products/5617712070818</id>
+      <title>100x200 cm / Brown / Fiber</title>
+      <s:price currency="INR">900.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://tileo.myshopify.com/products/5617711972514</id>
+    <published>2020-08-20T05:51:52-04:00</published>
+    <updated>2020-08-20T05:51:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://tileo.myshopify.com/products/mr-jack-vitrified-tiles"/>
+    <title>Mr.Jack Vitrified Tiles</title>
+    <s:type>Wall Tiles</s:type>
+    <s:vendor>Mr.Jack</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0437/5671/6194/products/Product15_4722bd9c-0836-4e63-a831-b720b7b8d8a2.jpg?v=1597918637"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mr.Jack<br>
+        <strong>Type: </strong>Wall Tiles<br>
+        <strong>Price: </strong>
+            900.00 - 950.00
+            <a href="https://tileo.myshopify.com/products/mr-jack-vitrified-tiles">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos.Donec pretium egestas sapien et mollis.</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ul>
+<h4>Sample Ordered Lista</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis.</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous.</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>Praesent vestibulum congue tellus at fringilla. Curabitur vitae semper sem, eu convallis est. Cras felis nunc commodo eu convallis vitae interdum non nisl. Maecenas ac est sit amet augue pharetra convallis nec danos dui. Cras suscipit quam et turpis eleifend vitae malesuada magna congue. Damus id ullamcorper neque. Sed vitae mi a mi pretium aliquet ac sed elit. Pellentesque nulla eros accumsan quis justo at tincidunt lobortis denimes loremous. Suspendisse vestibulum lectus in lectus volutpat, ut dapibus purus pulvinar. Vestibulum sit amet auctor ipsum.</blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$700 - $1000</s:tag>
+    <s:tag>100x200 cm</s:tag>
+    <s:tag>Brown</s:tag>
+    <s:tag>Mr.Jack</s:tag>
+    <s:tag>Vitrified Tiles</s:tag>
+    <s:tag>Wall Tiles</s:tag>
+    <s:variant>
+      <id>https://tileo.myshopify.com/products/5617711972514</id>
+      <title>100x200 cm / Brown / Vitrified Tiles</title>
+      <s:price currency="INR">950.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://tileo.myshopify.com/products/5617711972514</id>
+      <title>120x120 cm / Blue / Plastic</title>
+      <s:price currency="INR">900.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://tileo.myshopify.com/products/5617711972514</id>
+      <title>120x180 cm / Orange / Fiber</title>
+      <s:price currency="INR">900.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://tileo.myshopify.com/products/5617711874210</id>
+    <published>2020-08-20T05:51:49-04:00</published>
+    <updated>2020-08-20T05:51:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://tileo.myshopify.com/products/glossy-tiles"/>
+    <title>Glossy Tiles</title>
+    <s:type>Wall Tiles</s:type>
+    <s:vendor>Rainbow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0437/5671/6194/products/Product7_7e7cc9e8-b28a-482a-88af-897dd24d7360.jpg?v=1597918457"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rainbow<br>
+        <strong>Type: </strong>Wall Tiles<br>
+        <strong>Price: </strong>
+            890.00 - 900.00
+            <a href="https://tileo.myshopify.com/products/glossy-tiles">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos.Donec pretium egestas sapien et mollis.</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ul>
+<h4>Sample Ordered Lista</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis.</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous.</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>Praesent vestibulum congue tellus at fringilla. Curabitur vitae semper sem, eu convallis est. Cras felis nunc commodo eu convallis vitae interdum non nisl. Maecenas ac est sit amet augue pharetra convallis nec danos dui. Cras suscipit quam et turpis eleifend vitae malesuada magna congue. Damus id ullamcorper neque. Sed vitae mi a mi pretium aliquet ac sed elit. Pellentesque nulla eros accumsan quis justo at tincidunt lobortis denimes loremous. Suspendisse vestibulum lectus in lectus volutpat, ut dapibus purus pulvinar. Vestibulum sit amet auctor ipsum.</blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$700 - $1000</s:tag>
+    <s:tag>120x180 cm</s:tag>
+    <s:tag>Elevation Tiles</s:tag>
+    <s:tag>Orange</s:tag>
+    <s:tag>Rainbow</s:tag>
+    <s:tag>Wall Tiles</s:tag>
+    <s:variant>
+      <id>https://tileo.myshopify.com/products/5617711874210</id>
+      <title>120x180 cm / Orange / Elevation Tiles</title>
+      <s:price currency="INR">890.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://tileo.myshopify.com/products/5617711874210</id>
+      <title>120x120 cm / Grey / Plastic</title>
+      <s:price currency="INR">900.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://tileo.myshopify.com/products/5617711874210</id>
+      <title>100x200 cm / Blue / Fiber</title>
+      <s:price currency="INR">900.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://tileo.myshopify.com/products/5617711808674</id>
+    <published>2020-08-20T05:51:47-04:00</published>
+    <updated>2020-08-20T05:51:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://tileo.myshopify.com/products/glossy-floor-tiles"/>
+    <title>Glossy Floor Tiles</title>
+    <s:type>Floor Tiles</s:type>
+    <s:vendor>Rainbow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0437/5671/6194/products/Product21_b8731aba-003b-451c-b5c9-679fce645398.jpg?v=1597922977"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rainbow<br>
+        <strong>Type: </strong>Floor Tiles<br>
+        <strong>Price: </strong>
+            890.00 - 900.00
+            <a href="https://tileo.myshopify.com/products/glossy-floor-tiles">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos.Donec pretium egestas sapien et mollis.</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ul>
+<h4>Sample Ordered Lista</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis.</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous.</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>Praesent vestibulum congue tellus at fringilla. Curabitur vitae semper sem, eu convallis est. Cras felis nunc commodo eu convallis vitae interdum non nisl. Maecenas ac est sit amet augue pharetra convallis nec danos dui. Cras suscipit quam et turpis eleifend vitae malesuada magna congue. Damus id ullamcorper neque. Sed vitae mi a mi pretium aliquet ac sed elit. Pellentesque nulla eros accumsan quis justo at tincidunt lobortis denimes loremous. Suspendisse vestibulum lectus in lectus volutpat, ut dapibus purus pulvinar. Vestibulum sit amet auctor ipsum.</blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$700 - $1000</s:tag>
+    <s:tag>100x200 cm</s:tag>
+    <s:tag>Elevation Tiles</s:tag>
+    <s:tag>Floor Tiles</s:tag>
+    <s:tag>Rainbow</s:tag>
+    <s:tag>Rose</s:tag>
+    <s:variant>
+      <id>https://tileo.myshopify.com/products/5617711808674</id>
+      <title>100x200 cm / Rose / Elevation Tiles</title>
+      <s:price currency="INR">890.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://tileo.myshopify.com/products/5617711808674</id>
+      <title>120x120 cm / Orange / Plastic</title>
+      <s:price currency="INR">900.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://tileo.myshopify.com/products/5617711808674</id>
+      <title>120x180 cm / Blue / Fiber</title>
+      <s:price currency="INR">900.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://tileo.myshopify.com/products/5617711743138</id>
+    <published>2020-08-20T05:51:45-04:00</published>
+    <updated>2020-08-20T05:51:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://tileo.myshopify.com/products/glazed-vitrified-tiles"/>
+    <title>Glazed Vitrified Tiles</title>
+    <s:type>Wall Tiles</s:type>
+    <s:vendor>Rainbow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0437/5671/6194/products/Product5.jpg?v=1597918329"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rainbow<br>
+        <strong>Type: </strong>Wall Tiles<br>
+        <strong>Price: </strong>
+            850.00 - 900.00
+            <a href="https://tileo.myshopify.com/products/glazed-vitrified-tiles">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos.Donec pretium egestas sapien et mollis.</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ul>
+<h4>Sample Ordered Lista</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis.</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous.</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>Praesent vestibulum congue tellus at fringilla. Curabitur vitae semper sem, eu convallis est. Cras felis nunc commodo eu convallis vitae interdum non nisl. Maecenas ac est sit amet augue pharetra convallis nec danos dui. Cras suscipit quam et turpis eleifend vitae malesuada magna congue. Damus id ullamcorper neque. Sed vitae mi a mi pretium aliquet ac sed elit. Pellentesque nulla eros accumsan quis justo at tincidunt lobortis denimes loremous. Suspendisse vestibulum lectus in lectus volutpat, ut dapibus purus pulvinar. Vestibulum sit amet auctor ipsum.</blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$700 - $1000</s:tag>
+    <s:tag>100x200 cm</s:tag>
+    <s:tag>Brown</s:tag>
+    <s:tag>Rainbow</s:tag>
+    <s:tag>Vitrified Tiles</s:tag>
+    <s:tag>Wall Tiles</s:tag>
+    <s:variant>
+      <id>https://tileo.myshopify.com/products/5617711743138</id>
+      <title>100x200 cm / Sandal / Vitrified Tiles</title>
+      <s:price currency="INR">850.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://tileo.myshopify.com/products/5617711743138</id>
+      <title>120x120 cm / Orange / Plastic</title>
+      <s:price currency="INR">900.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://tileo.myshopify.com/products/5617711743138</id>
+      <title>120x180 cm / Brown / Fiber</title>
+      <s:price currency="INR">900.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://tileo.myshopify.com/products/5617711513762</id>
+    <published>2020-08-20T05:51:42-04:00</published>
+    <updated>2020-08-20T05:51:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://tileo.myshopify.com/products/galaxy-tiles"/>
+    <title>Galaxy Tiles</title>
+    <s:type>Wall Tiles</s:type>
+    <s:vendor>Galaxy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0437/5671/6194/products/Product2.jpg?v=1597918195"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Galaxy<br>
+        <strong>Type: </strong>Wall Tiles<br>
+        <strong>Price: </strong>
+            900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos.Donec pretium egestas sapien et mollis.</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ul>
+<h4>Sample Ordered Lista</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis.</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous.</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>Praesent vestibulum congue tellus at fringilla. Curabitur vitae semper sem, eu convallis est. Cras felis nunc commodo eu convallis vitae interdum non nisl. Maecenas ac est sit amet augue pharetra convallis nec danos dui. Cras suscipit quam et turpis eleifend vitae malesuada magna congue. Damus id ullamcorper neque. Sed vitae mi a mi pretium aliquet ac sed elit. Pellentesque nulla eros accumsan quis justo at tincidunt lobortis denimes loremous. Suspendisse vestibulum lectus in lectus volutpat, ut dapibus purus pulvinar. Vestibulum sit amet auctor ipsum.</blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$700 - $1000</s:tag>
+    <s:tag>100x200 cm</s:tag>
+    <s:tag>Brown</s:tag>
+    <s:tag>Galaxy</s:tag>
+    <s:tag>Vitrified Tiles</s:tag>
+    <s:tag>Wall Tiles</s:tag>
+    <s:variant>
+      <id>https://tileo.myshopify.com/products/5617711513762</id>
+      <title>100x200 cm / Brown / Vitrified Tiles</title>
+      <s:price currency="INR">900.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://tileo.myshopify.com/products/5617711513762</id>
+      <title>120x120 cm / Grey / Plastic</title>
+      <s:price currency="INR">900.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://tileo.myshopify.com/products/5617711513762</id>
+      <title>120x180 cm / Orange / Fiber</title>
+      <s:price currency="INR">900.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://tileo.myshopify.com/products/5617711382690</id>
+    <published>2020-08-20T05:51:40-04:00</published>
+    <updated>2020-08-20T05:51:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://tileo.myshopify.com/products/classic-encaustic-tiles"/>
+    <title>Classic Encaustic Tiles</title>
+    <s:type>Floor Tiles</s:type>
+    <s:vendor>Rainbow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0437/5671/6194/products/Product20.jpg?v=1597922852"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rainbow<br>
+        <strong>Type: </strong>Floor Tiles<br>
+        <strong>Price: </strong>
+            890.00 - 900.00
+            <a href="https://tileo.myshopify.com/products/classic-encaustic-tiles">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos.Donec pretium egestas sapien et mollis.</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ul>
+<h4>Sample Ordered Lista</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis.</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous.</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>Praesent vestibulum congue tellus at fringilla. Curabitur vitae semper sem, eu convallis est. Cras felis nunc commodo eu convallis vitae interdum non nisl. Maecenas ac est sit amet augue pharetra convallis nec danos dui. Cras suscipit quam et turpis eleifend vitae malesuada magna congue. Damus id ullamcorper neque. Sed vitae mi a mi pretium aliquet ac sed elit. Pellentesque nulla eros accumsan quis justo at tincidunt lobortis denimes loremous. Suspendisse vestibulum lectus in lectus volutpat, ut dapibus purus pulvinar. Vestibulum sit amet auctor ipsum.</blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$700 - $1000</s:tag>
+    <s:tag>100x200 cm</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>Floor Tiles</s:tag>
+    <s:tag>Rainbow</s:tag>
+    <s:tag>Vitrified Tiles</s:tag>
+    <s:variant>
+      <id>https://tileo.myshopify.com/products/5617711382690</id>
+      <title>100x200 cm / Black / Vitrified Tiles</title>
+      <s:price currency="INR">890.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://tileo.myshopify.com/products/5617711382690</id>
+      <title>120x120 cm / Orange / Plastic</title>
+      <s:price currency="INR">900.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://tileo.myshopify.com/products/5617711382690</id>
+      <title>120x180 cm / Rose / Fiber</title>
+      <s:price currency="INR">900.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://tileo.myshopify.com/products/5617711251618</id>
+    <published>2020-08-20T05:51:37-04:00</published>
+    <updated>2020-08-20T05:51:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://tileo.myshopify.com/products/ceramic-wall-tiles"/>
+    <title>Ceramic Wall Tiles</title>
+    <s:type>Wall Tiles</s:type>
+    <s:vendor>Gladiator</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0437/5671/6194/products/Product12_5cbc035b-c91d-4e79-b1aa-3ce0df90c581.jpg?v=1597918003"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gladiator<br>
+        <strong>Type: </strong>Wall Tiles<br>
+        <strong>Price: </strong>
+            840.00 - 900.00
+            <a href="https://tileo.myshopify.com/products/ceramic-wall-tiles">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos.Donec pretium egestas sapien et mollis.</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ul>
+<h4>Sample Ordered Lista</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis.</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous.</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>Praesent vestibulum congue tellus at fringilla. Curabitur vitae semper sem, eu convallis est. Cras felis nunc commodo eu convallis vitae interdum non nisl. Maecenas ac est sit amet augue pharetra convallis nec danos dui. Cras suscipit quam et turpis eleifend vitae malesuada magna congue. Damus id ullamcorper neque. Sed vitae mi a mi pretium aliquet ac sed elit. Pellentesque nulla eros accumsan quis justo at tincidunt lobortis denimes loremous. Suspendisse vestibulum lectus in lectus volutpat, ut dapibus purus pulvinar. Vestibulum sit amet auctor ipsum.</blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$700 - $1000</s:tag>
+    <s:tag>120x120 cm</s:tag>
+    <s:tag>Brown</s:tag>
+    <s:tag>Ceramic Tiles</s:tag>
+    <s:tag>Gladiator</s:tag>
+    <s:tag>Wall Tiles</s:tag>
+    <s:variant>
+      <id>https://tileo.myshopify.com/products/5617711251618</id>
+      <title>120x120 cm / Brown / Ceramic Tiles</title>
+      <s:price currency="INR">840.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://tileo.myshopify.com/products/5617711251618</id>
+      <title>100x200 cm / Grey / Plastic</title>
+      <s:price currency="INR">900.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://tileo.myshopify.com/products/5617711251618</id>
+      <title>120x180 cm / Sandal / Fiber</title>
+      <s:price currency="INR">900.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://tileo.myshopify.com/products/5617711055010</id>
+    <published>2020-08-20T05:51:35-04:00</published>
+    <updated>2020-08-20T05:51:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://tileo.myshopify.com/products/ceramic-floor-tiles"/>
+    <title>Ceramic Floor Tiles</title>
+    <s:type>Floor Tiles</s:type>
+    <s:vendor>Rainbow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0437/5671/6194/products/Product3.jpg?v=1597917902"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rainbow<br>
+        <strong>Type: </strong>Floor Tiles<br>
+        <strong>Price: </strong>
+            800.00 - 900.00
+            <a href="https://tileo.myshopify.com/products/ceramic-floor-tiles">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos.Donec pretium egestas sapien et mollis.</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ul>
+<h4>Sample Ordered Lista</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis.</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous.</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>Praesent vestibulum congue tellus at fringilla. Curabitur vitae semper sem, eu convallis est. Cras felis nunc commodo eu convallis vitae interdum non nisl. Maecenas ac est sit amet augue pharetra convallis nec danos dui. Cras suscipit quam et turpis eleifend vitae malesuada magna congue. Damus id ullamcorper neque. Sed vitae mi a mi pretium aliquet ac sed elit. Pellentesque nulla eros accumsan quis justo at tincidunt lobortis denimes loremous. Suspendisse vestibulum lectus in lectus volutpat, ut dapibus purus pulvinar. Vestibulum sit amet auctor ipsum.</blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$700 - $1000</s:tag>
+    <s:tag>100x200 cm</s:tag>
+    <s:tag>Ceramic Tiles</s:tag>
+    <s:tag>Orange</s:tag>
+    <s:tag>Rainbow</s:tag>
+    <s:tag>Wall Tiles</s:tag>
+    <s:variant>
+      <id>https://tileo.myshopify.com/products/5617711055010</id>
+      <title>100x200 cm / Orange / Ceramic Tiles</title>
+      <s:price currency="INR">800.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://tileo.myshopify.com/products/5617711055010</id>
+      <title>120x180 cm / Grey / Plastic</title>
+      <s:price currency="INR">900.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://tileo.myshopify.com/products/5617711055010</id>
+      <title>120x120 cm / Brown / Fiber</title>
+      <s:price currency="INR">900.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://tileo.myshopify.com/products/5617710825634</id>
+    <published>2020-08-20T05:51:33-04:00</published>
+    <updated>2020-08-20T05:51:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://tileo.myshopify.com/products/calpso-tiles"/>
+    <title>Calpso Tiles</title>
+    <s:type>Bathroom Tiles</s:type>
+    <s:vendor>Rainbow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0437/5671/6194/products/Product11_ea80942f-ec0e-44c0-a57f-e4d46b2d68c1.jpg?v=1597917773"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rainbow<br>
+        <strong>Type: </strong>Bathroom Tiles<br>
+        <strong>Price: </strong>
+            820.00 - 900.00
+            <a href="https://tileo.myshopify.com/products/calpso-tiles">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos.Donec pretium egestas sapien et mollis.</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ul>
+<h4>Sample Ordered Lista</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis.</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous.</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>Praesent vestibulum congue tellus at fringilla. Curabitur vitae semper sem, eu convallis est. Cras felis nunc commodo eu convallis vitae interdum non nisl. Maecenas ac est sit amet augue pharetra convallis nec danos dui. Cras suscipit quam et turpis eleifend vitae malesuada magna congue. Damus id ullamcorper neque. Sed vitae mi a mi pretium aliquet ac sed elit. Pellentesque nulla eros accumsan quis justo at tincidunt lobortis denimes loremous. Suspendisse vestibulum lectus in lectus volutpat, ut dapibus purus pulvinar. Vestibulum sit amet auctor ipsum.</blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$700 - $1000</s:tag>
+    <s:tag>400X400 mm</s:tag>
+    <s:tag>Bathroom Tiles</s:tag>
+    <s:tag>Brown</s:tag>
+    <s:tag>Rainbow</s:tag>
+    <s:tag>Vitrified Tiles</s:tag>
+    <s:variant>
+      <id>https://tileo.myshopify.com/products/5617710825634</id>
+      <title>120x180 cm / Brown / Vitrified Tiles</title>
+      <s:price currency="INR">820.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://tileo.myshopify.com/products/5617710825634</id>
+      <title>120x120 cm / Orange / Plastic</title>
+      <s:price currency="INR">900.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://tileo.myshopify.com/products/5617710825634</id>
+      <title>100x200 cm / Orange / Fiber</title>
+      <s:price currency="INR">900.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://tileo.myshopify.com/products/5617710727330</id>
+    <published>2020-08-20T05:51:30-04:00</published>
+    <updated>2020-08-20T05:51:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://tileo.myshopify.com/products/boxo-vitrified-tiles"/>
+    <title>Boxo Vitrified Tiles</title>
+    <s:type>Wall Tiles</s:type>
+    <s:vendor>Boxo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0437/5671/6194/products/Product8_85aba550-6c7c-4ab0-b004-600b6b0cefc3.jpg?v=1597917593"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Boxo<br>
+        <strong>Type: </strong>Wall Tiles<br>
+        <strong>Price: </strong>
+            850.00 - 900.00
+            <a href="https://tileo.myshopify.com/products/boxo-vitrified-tiles">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos.Donec pretium egestas sapien et mollis.</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ul>
+<h4>Sample Ordered Lista</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis.</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous.</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>Praesent vestibulum congue tellus at fringilla. Curabitur vitae semper sem, eu convallis est. Cras felis nunc commodo eu convallis vitae interdum non nisl. Maecenas ac est sit amet augue pharetra convallis nec danos dui. Cras suscipit quam et turpis eleifend vitae malesuada magna congue. Damus id ullamcorper neque. Sed vitae mi a mi pretium aliquet ac sed elit. Pellentesque nulla eros accumsan quis justo at tincidunt lobortis denimes loremous. Suspendisse vestibulum lectus in lectus volutpat, ut dapibus purus pulvinar. Vestibulum sit amet auctor ipsum.</blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$700 - $1000</s:tag>
+    <s:tag>120x120 cm</s:tag>
+    <s:tag>Boxo</s:tag>
+    <s:tag>Sandal</s:tag>
+    <s:tag>Vitrified Tiles</s:tag>
+    <s:tag>Wall Tiles</s:tag>
+    <s:variant>
+      <id>https://tileo.myshopify.com/products/5617710727330</id>
+      <title>120x120 cm / Sandal / Vitrified Tiles</title>
+      <s:price currency="INR">850.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://tileo.myshopify.com/products/5617710727330</id>
+      <title>100x200 cm / Orange / Plastic</title>
+      <s:price currency="INR">900.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://tileo.myshopify.com/products/5617710727330</id>
+      <title>120x180 cm / Sandal / Fiber</title>
+      <s:price currency="INR">900.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://tileo.myshopify.com/products/5617710596258</id>
+    <published>2020-08-20T05:51:28-04:00</published>
+    <updated>2020-08-20T05:51:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://tileo.myshopify.com/products/bathroom-tiles"/>
+    <title>Bathroom Tiles</title>
+    <s:type>Bathroom Tiles</s:type>
+    <s:vendor>Convail</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0437/5671/6194/products/Product15_c1fc193a-a098-40f4-a820-0620e2c32af5.jpg?v=1597917380"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Convail<br>
+        <strong>Type: </strong>Bathroom Tiles<br>
+        <strong>Price: </strong>
+            790.00 - 900.00
+            <a href="https://tileo.myshopify.com/products/bathroom-tiles">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos.Donec pretium egestas sapien et mollis.</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ul>
+<h4>Sample Ordered Lista</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis.</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous.</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>Praesent vestibulum congue tellus at fringilla. Curabitur vitae semper sem, eu convallis est. Cras felis nunc commodo eu convallis vitae interdum non nisl. Maecenas ac est sit amet augue pharetra convallis nec danos dui. Cras suscipit quam et turpis eleifend vitae malesuada magna congue. Damus id ullamcorper neque. Sed vitae mi a mi pretium aliquet ac sed elit. Pellentesque nulla eros accumsan quis justo at tincidunt lobortis denimes loremous. Suspendisse vestibulum lectus in lectus volutpat, ut dapibus purus pulvinar. Vestibulum sit amet auctor ipsum.</blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$700 - $1000</s:tag>
+    <s:tag>100x200 cm</s:tag>
+    <s:tag>Bathroom Tiles</s:tag>
+    <s:tag>Convail</s:tag>
+    <s:tag>Grey</s:tag>
+    <s:tag>Vitrified Tiles</s:tag>
+    <s:variant>
+      <id>https://tileo.myshopify.com/products/5617710596258</id>
+      <title>100x200 cm / Grey / Vitrified Tiles</title>
+      <s:price currency="INR">790.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://tileo.myshopify.com/products/5617710596258</id>
+      <title>120x180 cm / Orange / Plastic</title>
+      <s:price currency="INR">900.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://tileo.myshopify.com/products/5617710596258</id>
+      <title>29x180 cm / Orange / Fiber</title>
+      <s:price currency="INR">900.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
